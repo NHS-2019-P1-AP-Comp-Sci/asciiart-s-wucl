@@ -23,5 +23,38 @@ public class ASCIIArt {
 		System.out.println("THIS IS MY ASCII ART!!!!");
 		System.out.println("THIS IS MY ASCII ART!!!!");
 		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("Shark!");
+		System.out.println("  ______________________");
+		System.out.println("  |                    \\");
+		System.out.println("  \\                     \\ /");
+		System.out.println("   \\ o_o                 \\/ ");
+		System.out.println("   |                     /\\");
+		System.out.println("   |                    / \\/");
+		System.out.println("    \\____()____________/\\ \\  ");
+		System.out.println("     ");
+		System.out.println("Crab!"); 
+		System.out.println("        o     o  ");
+		System.out.println("      __|_____|__");
+		System.out.println(" v   /           \\    v");
+		System.out.println("  \\ /     ~       \\  /");
+		System.out.println("   \\|              |/");
+		System.out.println("    |              |");
+		System.out.println("    |______________|");
+		System.out.println("    |||          |||");
+		System.out.println("     ____  _____");
+		System.out.println("      \\   \\/    /");
+		System.out.println("      \\       /");
+		System.out.println("    /        \\ ");
+		System.out.println("   /          \\ ");
+		System.out.println("  /            \\");
+		System.out.println(" |              |");
+		System.out.println(" |              |");
+		System.out.println(" |              |");
+		System.out.println(" |              |");
+		System.out.println("<\\  . _____ .  />");
+		System.out.println("  \\___________/");
+		System.out.println("Under the Sea!");
+	
+	
 	}
 }
